@@ -1484,6 +1484,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13752:6739",
+      "webPath": "web/icons/monochrome/kanban.svg",
+      "iosAssetName": "icon-monochrome-kanban",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-kanban.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-kanban.imageset/icon-monochrome-kanban.pdf",
+      "androidResourceName": "icon_monochrome_kanban",
+      "androidPath": "android/res/drawable/icon_monochrome_kanban.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "kanban",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "13121:751",
       "webPath": "web/icons/monochrome/key.svg",
       "iosAssetName": "icon-monochrome-key",
@@ -2628,6 +2641,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13746:6588",
+      "webPath": "web/icons/monochrome/task-cancelled-trimmed.svg",
+      "iosAssetName": "icon-monochrome-task-cancelled-trimmed",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-task-cancelled-trimmed.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-cancelled-trimmed.imageset/icon-monochrome-task-cancelled-trimmed.pdf",
+      "androidResourceName": "icon_monochrome_task_cancelled_trimmed",
+      "androidPath": "android/res/drawable/icon_monochrome_task_cancelled_trimmed.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "task-cancelled-trimmed",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "13411:117",
       "webPath": "web/icons/monochrome/task-cancelled.svg",
       "iosAssetName": "icon-monochrome-task-cancelled",
@@ -2638,6 +2664,19 @@
       "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-cancelled",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13746:6589",
+      "webPath": "web/icons/monochrome/task-done-trimmed.svg",
+      "iosAssetName": "icon-monochrome-task-done-trimmed",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-task-done-trimmed.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-done-trimmed.imageset/icon-monochrome-task-done-trimmed.pdf",
+      "androidResourceName": "icon_monochrome_task_done_trimmed",
+      "androidPath": "android/res/drawable/icon_monochrome_task_done_trimmed.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "task-done-trimmed",
       "pageName": "􀥧     Icons"
     },
     {
@@ -2654,6 +2693,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13746:6590",
+      "webPath": "web/icons/monochrome/task-in-progress-trimmed.svg",
+      "iosAssetName": "icon-monochrome-task-in-progress-trimmed",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-task-in-progress-trimmed.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-in-progress-trimmed.imageset/icon-monochrome-task-in-progress-trimmed.pdf",
+      "androidResourceName": "icon_monochrome_task_in_progress_trimmed",
+      "androidPath": "android/res/drawable/icon_monochrome_task_in_progress_trimmed.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "task-in-progress-trimmed",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "13441:110",
       "webPath": "web/icons/monochrome/task-in-progress.svg",
       "iosAssetName": "icon-monochrome-task-in-progress",
@@ -2664,6 +2716,19 @@
       "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-in-progress",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13746:6587",
+      "webPath": "web/icons/monochrome/task-in-review-trimmed.svg",
+      "iosAssetName": "icon-monochrome-task-in-review-trimmed",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-task-in-review-trimmed.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-in-review-trimmed.imageset/icon-monochrome-task-in-review-trimmed.pdf",
+      "androidResourceName": "icon_monochrome_task_in_review_trimmed",
+      "androidPath": "android/res/drawable/icon_monochrome_task_in_review_trimmed.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "task-In-review-trimmed",
       "pageName": "􀥧     Icons"
     },
     {
@@ -2680,6 +2745,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13746:6591",
+      "webPath": "web/icons/monochrome/task-pause-trimmed.svg",
+      "iosAssetName": "icon-monochrome-task-pause-trimmed",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-task-pause-trimmed.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-pause-trimmed.imageset/icon-monochrome-task-pause-trimmed.pdf",
+      "androidResourceName": "icon_monochrome_task_pause_trimmed",
+      "androidPath": "android/res/drawable/icon_monochrome_task_pause_trimmed.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "task-pause-trimmed",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "13395:707",
       "webPath": "web/icons/monochrome/task-pause.svg",
       "iosAssetName": "icon-monochrome-task-pause",
@@ -2690,6 +2768,19 @@
       "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-pause",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13746:6592",
+      "webPath": "web/icons/monochrome/task-repeat-trimmed.svg",
+      "iosAssetName": "icon-monochrome-task-repeat-trimmed",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-task-repeat-trimmed.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-repeat-trimmed.imageset/icon-monochrome-task-repeat-trimmed.pdf",
+      "androidResourceName": "icon_monochrome_task_repeat_trimmed",
+      "androidPath": "android/res/drawable/icon_monochrome_task_repeat_trimmed.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "task-repeat-trimmed",
       "pageName": "􀥧     Icons"
     },
     {
@@ -2706,6 +2797,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13746:6593",
+      "webPath": "web/icons/monochrome/task-status-trimmed.svg",
+      "iosAssetName": "icon-monochrome-task-status-trimmed",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-task-status-trimmed.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-status-trimmed.imageset/icon-monochrome-task-status-trimmed.pdf",
+      "androidResourceName": "icon_monochrome_task_status_trimmed",
+      "androidPath": "android/res/drawable/icon_monochrome_task_status_trimmed.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "task-status-trimmed",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "13494:114",
       "webPath": "web/icons/monochrome/task-status.svg",
       "iosAssetName": "icon-monochrome-task-status",
@@ -2716,6 +2820,19 @@
       "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "task-status",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13746:6594",
+      "webPath": "web/icons/monochrome/task-to-do-trimmed.svg",
+      "iosAssetName": "icon-monochrome-task-to-do-trimmed",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-task-to-do-trimmed.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-task-to-do-trimmed.imageset/icon-monochrome-task-to-do-trimmed.pdf",
+      "androidResourceName": "icon_monochrome_task_to_do_trimmed",
+      "androidPath": "android/res/drawable/icon_monochrome_task_to_do_trimmed.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "task-to-do-trimmed",
       "pageName": "􀥧     Icons"
     },
     {
@@ -3301,6 +3418,19 @@
       "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "warning",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13752:6738",
+      "webPath": "web/icons/monochrome/week.svg",
+      "iosAssetName": "icon-monochrome-week",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-week.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-week.imageset/icon-monochrome-week.pdf",
+      "androidResourceName": "icon_monochrome_week",
+      "androidPath": "android/res/drawable/icon_monochrome_week.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "week",
       "pageName": "􀥧     Icons"
     },
     {
