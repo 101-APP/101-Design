@@ -1,0 +1,15 @@
+{
+  "images": [
+    {
+      "filename": "icon-monochrome-task-in-progress-trimmed.pdf",
+      "idiom": "universal"
+    }
+  ],
+  "info": {
+    "author": "101",
+    "version": 1
+  },
+  "properties": {
+    "template-rendering-intent": "template"
+  }
+}
