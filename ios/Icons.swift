@@ -153,6 +153,7 @@ public enum Icons: String, CaseIterable, Equatable {
     case monochromeNotificationsUnread = "icon-monochrome-notifications-unread"
     case monochromeNotificationsUnreadFill = "icon-monochrome-notifications-unread-fill"
     case monochromeOntractorRelations = "icon-monochrome-ontractor-relations"
+    case monochromeOpenai = "icon-monochrome-openai"
     case monochromeParameters = "icon-monochrome-parameters"
     case monochromePassword = "icon-monochrome-password"
     case monochromePaste = "icon-monochrome-paste"

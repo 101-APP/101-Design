@@ -1926,6 +1926,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13770:7176",
+      "webPath": "web/icons/monochrome/openai.svg",
+      "iosAssetName": "icon-monochrome-openai",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-openai.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-openai.imageset/icon-monochrome-openai.pdf",
+      "androidResourceName": "icon_monochrome_openai",
+      "androidPath": "android/res/drawable/icon_monochrome_openai.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "openai",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "12749:4432",
       "webPath": "web/icons/monochrome/parameters.svg",
       "iosAssetName": "icon-monochrome-parameters",
