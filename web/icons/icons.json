@@ -1120,6 +1120,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13759:6918",
+      "webPath": "web/icons/monochrome/error-circle.svg",
+      "iosAssetName": "icon-monochrome-error-circle",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-error-circle.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-error-circle.imageset/icon-monochrome-error-circle.pdf",
+      "androidResourceName": "icon_monochrome_error_circle",
+      "androidPath": "android/res/drawable/icon_monochrome_error_circle.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "error-circle",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "7775:32027",
       "webPath": "web/icons/monochrome/error.svg",
       "iosAssetName": "icon-monochrome-error",
@@ -1367,6 +1380,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13761:6927",
+      "webPath": "web/icons/monochrome/help-circle-hierarchical.svg",
+      "iosAssetName": "icon-monochrome-help-circle-hierarchical",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-help-circle-hierarchical.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-help-circle-hierarchical.imageset/icon-monochrome-help-circle-hierarchical.pdf",
+      "androidResourceName": "icon_monochrome_help_circle_hierarchical",
+      "androidPath": "android/res/drawable/icon_monochrome_help_circle_hierarchical.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "help-circle-hierarchical",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "12542:673",
       "webPath": "web/icons/monochrome/help-circle.svg",
       "iosAssetName": "icon-monochrome-help-circle",
@@ -1446,6 +1472,19 @@
     },
     {
       "figmaComponentId": "13242:110",
+      "webPath": "web/icons/monochrome/info-circle-hierarchical.svg",
+      "iosAssetName": "icon-monochrome-info-circle-hierarchical",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-info-circle-hierarchical.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-info-circle-hierarchical.imageset/icon-monochrome-info-circle-hierarchical.pdf",
+      "androidResourceName": "icon_monochrome_info_circle_hierarchical",
+      "androidPath": "android/res/drawable/icon_monochrome_info_circle_hierarchical.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "info-circle-hierarchical",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13761:6934",
       "webPath": "web/icons/monochrome/info-circle.svg",
       "iosAssetName": "icon-monochrome-info-circle",
       "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-info-circle.imageset/Contents.json",
@@ -2628,6 +2667,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13761:6941",
+      "webPath": "web/icons/monochrome/success.svg",
+      "iosAssetName": "icon-monochrome-success",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-success.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-success.imageset/icon-monochrome-success.pdf",
+      "androidResourceName": "icon_monochrome_success",
+      "androidPath": "android/res/drawable/icon_monochrome_success.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "success",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "2941:537",
       "webPath": "web/icons/monochrome/tag.svg",
       "iosAssetName": "icon-monochrome-tag",
@@ -3392,6 +3444,19 @@
       "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "volume50",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13759:6913",
+      "webPath": "web/icons/monochrome/warning-circle-fill.svg",
+      "iosAssetName": "icon-monochrome-warning-circle-fill",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-warning-circle-fill.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-warning-circle-fill.imageset/icon-monochrome-warning-circle-fill.pdf",
+      "androidResourceName": "icon_monochrome_warning_circle_fill",
+      "androidPath": "android/res/drawable/icon_monochrome_warning_circle_fill.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "warning-circle-fill",
       "pageName": "􀥧     Icons"
     },
     {
