@@ -3538,6 +3538,32 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13765:7069",
+      "webPath": "web/icons/monochrome/world-fill.svg",
+      "iosAssetName": "icon-monochrome-world-fill",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-world-fill.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-world-fill.imageset/icon-monochrome-world-fill.pdf",
+      "androidResourceName": "icon_monochrome_world_fill",
+      "androidPath": "android/res/drawable/icon_monochrome_world_fill.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "world-fill",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13765:7070",
+      "webPath": "web/icons/monochrome/world.svg",
+      "iosAssetName": "icon-monochrome-world",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-world.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-world.imageset/icon-monochrome-world.pdf",
+      "androidResourceName": "icon_monochrome_world",
+      "androidPath": "android/res/drawable/icon_monochrome_world.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "world",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "13482:116",
       "webPath": "web/icons/monochrome/yandex-disk.svg",
       "iosAssetName": "icon-monochrome-yandex-disk",
