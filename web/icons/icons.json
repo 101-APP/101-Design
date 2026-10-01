@@ -1120,6 +1120,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13764:7005",
+      "webPath": "web/icons/monochrome/email.svg",
+      "iosAssetName": "icon-monochrome-email",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-email.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-email.imageset/icon-monochrome-email.pdf",
+      "androidResourceName": "icon_monochrome_email",
+      "androidPath": "android/res/drawable/icon_monochrome_email.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "email",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "13759:6918",
       "webPath": "web/icons/monochrome/error-circle.svg",
       "iosAssetName": "icon-monochrome-error-circle",
@@ -1832,6 +1845,19 @@
       "androidFallbackPath": "",
       "category": "monochrome",
       "sourceName": "more",
+      "pageName": "􀥧     Icons"
+    },
+    {
+      "figmaComponentId": "13764:7006",
+      "webPath": "web/icons/monochrome/nickname.svg",
+      "iosAssetName": "icon-monochrome-nickname",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-nickname.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-nickname.imageset/icon-monochrome-nickname.pdf",
+      "androidResourceName": "icon_monochrome_nickname",
+      "androidPath": "android/res/drawable/icon_monochrome_nickname.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "nickname",
       "pageName": "􀥧     Icons"
     },
     {

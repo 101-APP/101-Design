@@ -1,0 +1,15 @@
+{
+  "images": [
+    {
+      "filename": "icon-monochrome-info-circle.pdf",
+      "idiom": "universal"
+    }
+  ],
+  "info": {
+    "author": "101",
+    "version": 1
+  },
+  "properties": {
+    "template-rendering-intent": "template"
+  }
+}
