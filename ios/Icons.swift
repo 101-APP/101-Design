@@ -40,6 +40,7 @@ public enum Icons: String, CaseIterable, Equatable {
     case monochromeCard = "icon-monochrome-card"
     case monochromeCardFill = "icon-monochrome-card-fill"
     case monochromeCardFillTrimmed = "icon-monochrome-card-fill-trimmed"
+    case monochromeChangelog = "icon-monochrome-changelog"
     case monochromeChartGantt = "icon-monochrome-chart-gantt"
     case monochromeChat = "icon-monochrome-chat"
     case monochromeCheckboxCircleMixedFill = "icon-monochrome-checkbox-circle-mixed-fill"

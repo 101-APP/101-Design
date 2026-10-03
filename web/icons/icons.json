@@ -457,6 +457,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13790:719",
+      "webPath": "web/icons/monochrome/changelog.svg",
+      "iosAssetName": "icon-monochrome-changelog",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-changelog.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-changelog.imageset/icon-monochrome-changelog.pdf",
+      "androidResourceName": "icon_monochrome_changelog",
+      "androidPath": "android/res/drawable/icon_monochrome_changelog.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "changelog",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "12387:1381",
       "webPath": "web/icons/monochrome/chart-gantt.svg",
       "iosAssetName": "icon-monochrome-chart-gantt",
