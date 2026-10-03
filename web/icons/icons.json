@@ -41,6 +41,19 @@
       "pageName": "􀥧     Icons"
     },
     {
+      "figmaComponentId": "13788:714",
+      "webPath": "web/icons/monochrome/3days.svg",
+      "iosAssetName": "icon-monochrome-3days",
+      "iosImagesetPath": "ios/Icons.xcassets/icon-monochrome-3days.imageset/Contents.json",
+      "iosPdfPath": "ios/Icons.xcassets/icon-monochrome-3days.imageset/icon-monochrome-3days.pdf",
+      "androidResourceName": "icon_monochrome_3days",
+      "androidPath": "android/res/drawable/icon_monochrome_3days.xml",
+      "androidFallbackPath": "",
+      "category": "monochrome",
+      "sourceName": "3days",
+      "pageName": "􀥧     Icons"
+    },
+    {
       "figmaComponentId": "1069:6878",
       "webPath": "web/icons/monochrome/account-fill.svg",
       "iosAssetName": "icon-monochrome-account-fill",
