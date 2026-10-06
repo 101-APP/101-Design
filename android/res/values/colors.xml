@@ -45,7 +45,7 @@
     <color name="color_surface_inverse">#CC000000</color>
     <color name="color_text_primary">#2A2A2C</color>
     <color name="color_text_quaternary">#DEDEE5</color>
-    <color name="color_text_secondary">#8A8A8E</color>
+    <color name="color_text_secondary">#76767A</color>
     <color name="color_text_tertiary">#BBBBC1</color>
     <color name="color_toast">#CC000000</color>
 </resources>
