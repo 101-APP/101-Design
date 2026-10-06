@@ -149,7 +149,7 @@ public enum Colors: String, CaseIterable, Equatable {
         case .textQuaternary:
             return Self.dynamicColor(light: "#DEDEE5", dark: "#303034")
         case .textSecondary:
-            return Self.dynamicColor(light: "#8A8A8E", dark: "#9F9FA5")
+            return Self.dynamicColor(light: "#76767A", dark: "#9F9FA5")
         case .textTertiary:
             return Self.dynamicColor(light: "#BBBBC1", dark: "#5A5A5F")
         case .toast:
