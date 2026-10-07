@@ -1,10 +1,18 @@
-# 101 Design Tokens
+# 101 Design
 
-Ресурсы дизайна 101 для Web, iOS и Android.
+Иконки, цвета и текстовые стили 101 для Web, iOS и Android.
 
-У Web, iOS и Android одна общая версия, например `1.0.108`. Каждая платформа подключается своим способом.
+Репозиторий: [101-APP/101-design](https://github.com/101-APP/101-design).
 
-Последнюю версию можно смотреть в GitHub Releases / Tags этого репозитория. Для Web версия также доступна на npm в package `@101app/design-tokens-web`.
+У Web, iOS и Android одна общая версия. Каждая платформа подключается своим способом.
+
+Версии доступны в [Git-тегах](https://github.com/101-APP/101-design/tags). Web-пакет публикуется в npm под именем `@101app/design-tokens-web`.
+
+## Изменение ресурсов
+
+Иконки, цвета и текстовые стили изменяются через GPT и просматриваются в локальном Playground веб-проекта 101. Исходники иконок хранятся в `sources/icons/`, цвета и текстовые стили — в `tokens.json`. При импорте SVG автоматически оптимизируется и преобразуется в ресурсы для Web, iOS и Android.
+
+Playground подсвечивает изменения и показывает кнопку **Push**. Она отправляет ресурсы прямо в `main`, без MR. Затем workflow **Release Design Tokens** проверяет ресурсы, содержимое npm-пакета и сборку Android. После успешных проверок он создаёт общий Git-тег и публикует Web-пакет в npm. Android-пакет собирается JitPack по запросу зависимости. При ошибке проверки публикация не выполняется.
 
 <details>
 <summary><strong>Web</strong></summary>
@@ -67,7 +75,7 @@ iOS использует этот репозиторий как Swift Package.
 ### Подключение
 
 ```text
-https://github.com/101-group/101-Design-Tokens
+https://github.com/101-APP/101-design
 ```
 
 Используйте продукт `DesignTokens` и нужную версию Git tag.
@@ -94,7 +102,7 @@ UIFont.grpIosBodyRegular
 Подключи дизайн-ресурсы 101 в iOS-проект.
 
 Нужно добавить Swift Package:
-https://github.com/101-group/101-Design-Tokens
+https://github.com/101-APP/101-design
 
 Выбери последнюю стабильную версию по Git tag и подключи продукт DesignTokens к нужному target.
 
@@ -112,7 +120,7 @@ https://github.com/101-group/101-Design-Tokens
 ```text
 Обнови дизайн-ресурсы 101 в iOS-проекте.
 
-Нужно обновить Swift Package https://github.com/101-group/101-Design-Tokens до последнего Git tag.
+Нужно обновить Swift Package https://github.com/101-APP/101-design до последнего Git tag.
 После обновления проверь, что проект собирается, DesignTokens.bundle доступен, Icons.swift, Colors.swift и Fonts.swift используются без ошибок.
 
 Если какие-то иконки, цвета или шрифты были переименованы, поправь места использования в проекте.
@@ -144,7 +152,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.101-group.101-Design-Tokens:android:<version>")
+    implementation("com.github.101-APP.101-design:android:<version>")
 }
 ```
 
@@ -176,7 +184,7 @@ R.style.TextAndroidBodyMedium
 maven("https://jitpack.io")
 
 В зависимости app/module добавь Android package последней версии:
-implementation("com.github.101-group.101-Design-Tokens:android:<version>")
+implementation("com.github.101-APP.101-design:android:<version>")
 
 Используй:
 - R.drawable.* для иконок;
@@ -193,10 +201,10 @@ implementation("com.github.101-group.101-Design-Tokens:android:<version>")
 Обнови дизайн-ресурсы 101 в Android-проекте.
 
 Нужно обновить версию зависимости:
-implementation("com.github.101-group.101-Design-Tokens:android:<new-version>")
+implementation("com.github.101-APP.101-design:android:<new-version>")
 
 Версию бери из последнего GitHub release / Git tag репозитория:
-https://github.com/101-group/101-Design-Tokens
+https://github.com/101-APP/101-design
 
 После обновления пересобери проект и проверь, что R.drawable.*, R.color.*, R.dimen.* и R.style.* доступны.
 Если какие-то ресурсы были переименованы, поправь места использования в проекте.
