@@ -2,12 +2,26 @@ name: Release Design Tokens
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - tokens.json
+      - web/**
+      - ios/**
+      - android/**
+      - sources/icons/**
+      - Package.swift
 
 permissions:
   contents: write
 
+concurrency:
+  group: design-tokens-release
+  cancel-in-progress: false
+
 jobs:
   release:
+    if: github.ref == 'refs/heads/main'
     name: Release all platforms and publish @101app/design-tokens-web
     runs-on: ubuntu-22.04
     steps:
@@ -60,6 +74,12 @@ jobs:
         uses: gradle/actions/setup-gradle@v5
         with:
           gradle-version: "8.9"
+
+      - name: Check resource validator
+        run: python3 scripts/test_validate_design_assets.py
+
+      - name: Validate generated resources
+        run: python3 scripts/validate_design_assets.py
 
       - name: Check platform files
         run: |
