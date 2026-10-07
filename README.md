@@ -2,8 +2,6 @@
 
 Иконки, цвета и текстовые стили 101 для Web, iOS и Android.
 
-Репозиторий: [101-APP/101-Design](https://github.com/101-APP/101-Design).
-
 У Web, iOS и Android одна общая версия. Каждая платформа подключается своим способом.
 
 Версии доступны в [Git-тегах](https://github.com/101-APP/101-Design/tags). Web-пакет публикуется в npm под именем `@101app/design-tokens-web`.
